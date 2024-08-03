@@ -1,1 +1,4 @@
 # SBA
+In this article, a large and rich dataset from the U.S. Small Business Administration (SBA) and an accompanying assignment designed to teach statistics as an investigative process of decision making are presented. Guidelines for the assignment titled “Should This Loan Be Approved or Denied?,” along with a subset of the larger dataset, are provided. For this case-study assignment, students assume the role of loan officer at a bank and are asked to approve or deny a loan by assessing its risk of default using logistic regression. Since this assignment is designed for introductory business statistic courses, additional methods for more advanced data analysis courses are also suggested.
+
+Li, M., Mickel, A., & Taylor, S. (2018). “Should This Loan be Approved or Denied?”: A Large Dataset with Class Assignment Guidelines. Journal of Statistics Education, 26(1), 55–66. https://doi.org/10.1080/10691898.2018.1434342
